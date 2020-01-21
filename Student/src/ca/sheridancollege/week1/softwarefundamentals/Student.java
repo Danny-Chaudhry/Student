@@ -14,6 +14,7 @@ public class Student {
     private String name;
     private String status;
     private String PartTimeBranchCreated;
+    private String Anoterchange;
     /**
      * Get the value of name
      *
