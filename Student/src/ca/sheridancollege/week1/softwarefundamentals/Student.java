@@ -13,6 +13,7 @@ public class Student {
     
     private String name;
     private String status;
+    private String PartTimeBranchCreated;
     /**
      * Get the value of name
      *
